@@ -185,6 +185,10 @@ This script:
 * Visualizes control signals
 * Helps analyze SLAM performance
 
+<img width="1000" height="800" alt="trajectory_plot" src="https://github.com/user-attachments/assets/f771e9ce-90a1-4f52-b52c-4ef4f6113bc0" />
+
+<img width="1000" height="400" alt="control_signals" src="https://github.com/user-attachments/assets/3b72bb22-1230-4147-939e-e1c91d0ed09b" />
+
 ---
 
 ## 🧠 EKF-SLAM Overview (Conceptual)
